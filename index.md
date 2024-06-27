@@ -11,6 +11,8 @@ Features:
 - Includes An Coimisiún set dance tunes: "The Vanishing Lake" and "The Charlady"
 - Includes set dance tunes used by Comhdháil Na Múinteoirí Le Rincí Gaelacha (An Comhdháil): "The Donegal Rambler", "Planxty Irwin", and "The Battle of Arklow"
 
-![Screenshot 2024-06-27 at 12 24 09 AM](https://github.com/douglowder/set-dances-website/assets/6577821/24778aa2-e127-4c63-bd18-4d186b3843a1)
+![Screenshots](https://github.com/douglowder/set-dances-website/assets/6577821/24778aa2-e127-4c63-bd18-4d186b3843a1)
+
+[![Video demo](https://github.com/douglowder/set-dances-website/assets/6577821/1e996b6b-e738-4fad-a98b-d2a0a67a7ad6)](https://github.com/douglowder/set-dances-website/assets/6577821/546db458-b07c-41e9-8959-c3278dec6497)
 
 [Set Dances app privacy policy](./privacy.md)
