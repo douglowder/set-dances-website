@@ -12,3 +12,5 @@ Features:
 - Includes set dance tunes used by Comhdháil Na Múinteoirí Le Rincí Gaelacha (An Comhdháil): "The Donegal Rambler", "Planxty Irwin", and "The Battle of Arklow"
 
 ![Screenshot 2024-06-27 at 12 24 09 AM](https://github.com/douglowder/set-dances-website/assets/6577821/24778aa2-e127-4c63-bd18-4d186b3843a1)
+
+[Set Dances app privacy policy](./privacy.md)
